@@ -4,23 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54577155-f0bb-4203-b7d2-f1403de2c055" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/family/Parent/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/family/child/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/family/family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lol/lol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_11.iml" afterDir="false" />
+    <list default="true" id="54577155-f0bb-4203-b7d2-f1403de2c055" name="변경" comment="Tasty">
+      <change afterPath="$PROJECT_DIR$/src/lol/Champion/Champion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lol/Champion/Galio/Galio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lol/Champion/Garen/Garen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lol/Play/Play.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lol/lol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lol/lol.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +79,24 @@
       <option name="presentableId" value="Default" />
       <updated>1730869754347</updated>
       <workItem from="1730869755291" duration="8763000" />
-      <workItem from="1731474390660" duration="5729000" />
+      <workItem from="1731474390660" duration="8821000" />
     </task>
+    <task id="LOCAL-00001" summary="Tasty">
+      <option name="closed" value="true" />
+      <created>1731480318972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731480318972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tasty" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasty" />
   </component>
 </project>
